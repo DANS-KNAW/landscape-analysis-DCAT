@@ -1,6 +1,7 @@
 # Resources
 
 ## DCAT documentation
+- [DCAT repo](https://github.com/w3c/dxwg/tree/gh-pages)
 
 
 ## DCAT-AP documentation 
